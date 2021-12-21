@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 60%;
+    margin: 30px auto;
+    
+}
+p {
+    line-height: 24px;
+}
+a {
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: 45px;
+    margin-bottom: 30px;
+    color: #3c4043;
+    font-size: 24px;
+}
+
+h3 {
+    color: #3c4043;
+    font-size: 18px;
+}
+
+.lista {
+    margin-bottom: 50px;
+}
+
+ol li {
+    padding-left: 15px;
+}
+
+ol li ol {
+    list-style-type: lower-alpha;
+    padding-left: 15px;
+}
+
+li {
+    padding-top: 10px;
+}
